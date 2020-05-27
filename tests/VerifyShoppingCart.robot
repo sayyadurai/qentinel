@@ -9,6 +9,11 @@ Suite Teardown       End suite
 
 ITSHomePage    	   
 	Appstate       	Robots · Qentinel Pace   
+	VerifyText	Coronavirus: What You Need To Know About Recreational Water
+
+
+ITSSimpleProduct-AddToCart
+	Appstate       	Robots · Qentinel Pace   
 	ClickText	EQUIPMENT
 	ClickText	Robotic Pool Cleaners
 	ClickText      	Aquabot Classic Robotic Pool Cleaner With FREE EXTRA BAG
