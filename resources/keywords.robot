@@ -25,5 +25,5 @@ Appstate
 	...               Robots · Qentinel Pace
 
 Robots · Qentinel Pace
-	GoTo    https://pace.qentinel.com/robots/5889/r/12020/suite/4289/runs/204015
+	GoTo    http://intheswim.com/
 
