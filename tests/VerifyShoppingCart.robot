@@ -9,7 +9,7 @@ Suite Teardown       End suite
 
 ITSHomePage    	   
 	Appstate       	Robots · Qentinel Pace   
-	HoverText		CHEMICALS
+	ClickText		CHEMICALS
 	ClickItem		Chlorine & Bromine
 	ClickItem      	3 Inch Chlorine Tablets
 	TypeText       	QTY:   1
