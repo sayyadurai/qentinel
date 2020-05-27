@@ -9,9 +9,9 @@ Suite Teardown       End suite
 
 ITSHomePage    	   
 	Appstate       	Robots · Qentinel Pace   
-	ClickText	CHEMICALS
-	ClickText	CHLORINE & BROMINE
-	ClickText      	3 Inch Chlorine Tablets
-	TypeText       	QTY:   1
-	ClickText      	Addto cart                       
-	ClickText      	ViewCart (2)                     
+	ClickText	EQUIPMENT
+	ClickText	Robotic Pool Cleaners
+	ClickText      	Aquabot Classic Robotic Pool Cleaner With FREE EXTRA BAG
+	TypeText       	Quantity:   1
+	ClickText      	ADD TO CART                       
+	ClickText      	ViewCart (1)                     
