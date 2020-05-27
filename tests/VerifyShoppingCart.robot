@@ -14,4 +14,4 @@ ITSHomePage
 	ClickText      	Aquabot Classic Robotic Pool Cleaner With FREE EXTRA BAG
 	TypeText       	Quantity:   1
 	ClickText      	ADD TO CART                       
-	ClickText      	ViewCart (1)                     
+	ClickText      	View Cart (1)                     
