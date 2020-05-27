@@ -11,6 +11,10 @@ ITSHomePage
 	Appstate       	Robots · Qentinel Pace   
 	VerifyText	Coronavirus: What You Need To Know About Recreational Water
 
+ITSHome-Error    	   
+	Appstate       	Robots · Qentinel Pace   
+	VerifyText	Shanmu
+
 
 ITSSimpleProduct-AddToCart
 	Appstate       	Robots · Qentinel Pace   
