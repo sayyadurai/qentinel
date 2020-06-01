@@ -8,16 +8,16 @@ Suite Teardown       End suite
 *** Test Cases ***
 
 ITSHomePage    	   
-	Appstate       	Front Page  
+	Appstate       	FrontPage  
 	VerifyText	Coronavirus: What You Need To Know About Recreational Water
 
 ITSHome-Error    	   
-	Appstate       	Front Page   
+	Appstate       	FrontPage   
 	VerifyText	Shanmu
 
 
 ITSSimpleProduct-AddToCart
-	Appstate        Front Page
+	Appstate        FrontPage
 	HoverText      	    Chemicals
 	ClickText      	    Pool Algaecides
 	ClickText           In The Swim Pool Algaecide
