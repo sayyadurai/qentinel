@@ -17,7 +17,7 @@ ITSHome-Error
 
 
 ITSSimpleProduct-AddToCart
-	Appstate       	Robots · Qentinel Pace   
+	Appstate        Front Page
 	HoverText      	    Chemicals
 	ClickText      	    Pool Algaecides
 	ClickText           In The Swim Pool Algaecide
