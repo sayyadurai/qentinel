@@ -8,11 +8,11 @@ Suite Teardown       End suite
 *** Test Cases ***
 
 ITSHomePage    	   
-	Appstate       	Robots · Qentinel Pace   
+	Appstate       	Front Page  
 	VerifyText	Coronavirus: What You Need To Know About Recreational Water
 
 ITSHome-Error    	   
-	Appstate       	Robots · Qentinel Pace   
+	Appstate       	Front Page   
 	VerifyText	Shanmu
 
 
