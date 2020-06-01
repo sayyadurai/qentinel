@@ -21,9 +21,9 @@ Appstate
 	[Documentation]    Appstate handler
 	[Arguments]        ${state}
 	${state}=            Convert To Lowercase    ${state}
-	Run Keyword If      '${state}' == 'robots · qentinel pace'
-	...               Robots · Qentinel Pace
+	Run Keyword If      '${state}' == 'Front Page'
+	...               Front Page
 
-Robots · Qentinel Pace
+Front Page
 	GoTo    http://intheswim.com/
 
