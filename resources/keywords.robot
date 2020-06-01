@@ -21,7 +21,7 @@ Appstate
 	[Documentation]    Appstate handler
 	[Arguments]        ${state}
 	${state}=            Convert To Lowercase    ${state}
-	Run Keyword If      '${state}' == 'FrontPage'
+	Run Keyword If      '${state}' == 'frontpage'
 	...               FrontPage
 
 FrontPage
