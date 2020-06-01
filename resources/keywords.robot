@@ -21,9 +21,9 @@ Appstate
 	[Documentation]    Appstate handler
 	[Arguments]        ${state}
 	${state}=            Convert To Lowercase    ${state}
-	Run Keyword If      '${state}' == 'Front Page'
-	...               Front Page
+	Run Keyword If      '${state}' == 'FrontPage'
+	...               FrontPage
 
-Front Page
+FrontPage
 	GoTo    http://intheswim.com/
 
