@@ -13,7 +13,7 @@ ITSHomePage
 
 ITSHome-Error    	   
 	Appstate       	FrontPage   
-	VerifyText	Shanmu
+	VerifyNoText	Shanmu
 
 
 ITSSimpleProduct-AddToCart
